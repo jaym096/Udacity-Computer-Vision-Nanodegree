@@ -3,3 +3,4 @@ Series of Jupyter Notebooks consisting of assignments and projects throughout th
 
 ## CERTIFICATE
 
+![Image added](CERTIFICATE.png)
