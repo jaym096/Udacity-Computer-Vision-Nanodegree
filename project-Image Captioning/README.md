@@ -12,4 +12,6 @@ natural language like English. In this project I am using a pre-trained ResNet50
 
 ![Image added](results/c3.PNG)
 
+Cases were model didn't perform well
+
 ![Image added](results/c4.PNG)
