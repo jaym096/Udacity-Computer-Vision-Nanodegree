@@ -7,4 +7,4 @@ Implemented SLAM (Simultaneous Localization and Mapping) for a 2 dimensional wor
 
 Below you can see an example of a 50 x 50 grid world with with landmarks (purple x's) and robot position (a red 'o') lcreated by using only sensor and motion data collected from the robot.
 
-![Image added](capture.PNG)
+![Image added](Capture.PNG)
