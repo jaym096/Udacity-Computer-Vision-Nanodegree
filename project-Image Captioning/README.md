@@ -6,10 +6,10 @@ natural language like English. In this project I am using a pre-trained ResNet50
 
 ## Results/Examples
 
-![Image added](results/c1.png)
+![Image added](results/c1.PNG)
 
-![Image added](results/c2.png)
+![Image added](results/c2.PNG)
 
-![Image added](results/c3.png)
+![Image added](results/c3.PNG)
 
-![Image added](results/c4.png)
+![Image added](results/c4.PNG)
